@@ -30,7 +30,7 @@ from bot.helper.telegram_helper.message_utils import (
 )
 
 handler_dict = {}
-no_thumb = "https://graph.org/file/73ae908d18c6b38038071.jpg"
+no_thumb = "https://telegra.ph/file/27061ef540f186a18f66b.png"
 
 leech_options = [
     "THUMBNAIL",
